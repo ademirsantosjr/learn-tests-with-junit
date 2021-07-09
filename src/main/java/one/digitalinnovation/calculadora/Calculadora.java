@@ -1,7 +1,6 @@
-package one.digitalinnovation;
+package one.digitalinnovation.calculadora;
 
-public class Calculadora 
-{
+public class Calculadora {
     public int somar(String expressao) {
         int soma = 0;
         for (String valorSomar : expressao.split("\\+")) {

@@ -1,8 +1,10 @@
-package one.digitalinnovation;
+package one.digitalinnovation.calculadoratest;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import one.digitalinnovation.calculadora.Calculadora;
 
 public class CalculadoraTest {
     @Test
