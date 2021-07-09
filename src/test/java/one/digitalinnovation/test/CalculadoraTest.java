@@ -1,4 +1,4 @@
-package one.digitalinnovation.calculadoratest;
+package one.digitalinnovation.test;
 
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.mock;

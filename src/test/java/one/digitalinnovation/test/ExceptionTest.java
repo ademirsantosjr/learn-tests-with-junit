@@ -1,4 +1,4 @@
-package one.digitalinnovation.exceptiontest;
+package one.digitalinnovation.test;
 
 import static org.junit.Assert.assertThat;
 import static org.junit.Assert.fail;
